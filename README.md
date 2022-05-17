@@ -21,4 +21,4 @@ Ferramentas analíticas:
 
 ## Projetos de Ciência de Dados
 
-
+[Rossmann Sales](https://github.com/LeonardoMeneghessoFaria/rossmann-sales-by-leofaria)
