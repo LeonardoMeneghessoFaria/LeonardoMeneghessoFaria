@@ -19,13 +19,17 @@ Ferramentas analíticas:
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/leonardo-meneghesso-faria-92553b155/)
 [<img alt="Gmail" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:leofaria153@gmail.com)
 
-## Projetos de Ciência de Dados
+# Projetos de Ciência de Dados
+
+## Rossmann Sales
 
 [Rossmann Sales](https://github.com/LeonardoMeneghessoFaria/rossmann-sales-by-leofaria)
 
 ![machine-learning](https://user-images.githubusercontent.com/87080266/129563112-146c946e-dfdb-4f6d-8721-246ebf7a5458.jpg)
 
 O CFO solicita a predição de cada loja em uma reunião mensal, pois era difícil saber o melhor valor de investimento para as reformas de cada loja, devido à previsão fornecida pelos diretores não ser assertiva, havia muitos erros no valor necessitado. Então, para resolver esse problema, usei algoritmos de Machine Learning para prever precisamente qual seria o valor necessário para cada loja nas próximas seis semanas.
+
+## Insurance All
 
 [Insurance All](https://github.com/LeonardoMeneghessoFaria/health_insurance_by_leofaria)
 
@@ -36,6 +40,8 @@ A Insurance All é uma empresa que oferece seguro de saúde para seus clientes e
 Insurance All entrevistou cerca de 380.000 clientes sobre o interesse em aderir a um novo produto de seguro automóvel no ano passado. Todos os clientes demonstraram interesse ou não em adquirir o seguro de automóvel e essas respostas foram salvas em um banco de dados juntamente com outros atributos dos clientes.
 
 A equipe de produto selecionou 127 mil novos clientes que não responderam à pesquisa para participar de uma campanha, na qual receberão uma oferta do novo produto seguro automóvel. A oferta será feita pela equipe de vendas por meio de ligações telefônicas. No entanto, a equipe de vendas tem capacidade para realizar 20.000 atendimentos no período da campanha.
+
+## Classificação Fumantes
 
 [Classificação Fumantes](https://github.com/LeonardoMeneghessoFaria/Classificacao_Fumante)
 
